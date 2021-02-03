@@ -29,12 +29,4 @@ To get the yearly change we need to set up a series of `nested for loops`. The f
 Conditional formatting is used to assign a color to the values in the "Percent Change" column. Positive values get green and negative values get red. The "Percent Change" column also gets formatted to read as percent instead of decimal. All of the new columns get the autofit option passed on them to ensure the data is easy to read.
 
 ## Results
-<img src="/images/2014_Stock_Data_VBA.jpg" height="auto">
-<img src="/images/2015_Stock_Data_VBA.jpg" height="auto">
-<img src="/images/2016_Stock_Data_VBA.jpg" height="auto">
-
-
-
-
-
-
+<img src="images/2014 _Stock_Data_VBA.jpg" height="auto">

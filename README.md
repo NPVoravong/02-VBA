@@ -30,3 +30,7 @@ Conditional formatting is used to assign a color to the values in the "Percent C
 
 ## Results
 <img src="images/2014 _Stock_Data_VBA.jpg" height="auto">
+
+<img src="images/2015 _Stock_Data_VBA.jpg" height="auto">
+
+<img src="images/2016_Stock_Data_VBA.jpg" height="auto">

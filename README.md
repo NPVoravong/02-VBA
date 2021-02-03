@@ -1,7 +1,7 @@
 # VBA Scripting
 
 ## Prompt
-Using provided stock data Create a script that will loop through all the stocks for one year and output the following information.
+Using provided stock data create a script that will loop through all the stocks for one year and output the following information.
 * Ticker Symbol
 * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.

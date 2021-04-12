@@ -1,6 +1,6 @@
 # VBA Scripting
 
-## Prompt
+# Prompt
 Using provided stock data create a script that will loop through all the stocks for one year and output the following information.
 * Ticker Symbol
 * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
@@ -8,7 +8,7 @@ Using provided stock data create a script that will loop through all the stocks 
 * The total stock volume of the stock.
 * Conditional Formatting for positive and negative yearly change.
 
-## Process
+# Process
 1. **Active each sheet and process the data**   
 This is done using a `For Loop` to cycle through and activate the sheets after all the data on that sheet has been processed.  
 
@@ -28,7 +28,7 @@ To get the yearly change we need to set up a series of `nested for loops`. The f
 5. **Formatting**  
 Conditional formatting is used to assign a color to the values in the "Percent Change" column. Positive values get green and negative values get red. The "Percent Change" column also gets formatted to read as percent instead of decimal. All of the new columns get the autofit option passed on them to ensure the data is easy to read.
 
-## Results
+# Results
 <img src="images/2014 _Stock_Data_VBA.jpg" height="auto">
 
 <img src="images/2015 _Stock_Data_VBA.jpg" height="auto">
